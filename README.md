@@ -7,11 +7,6 @@
 
 ---
 
-## 📸 প্রজেক্ট প্রিভিউ (Preview)
-
-![Nazmin's Restaurant Preview](https://raw.githubusercontent.com/msnazminakter690-prog/my-first-websitee/main/images/preview.png)
-
----
 
 ## ✨ মেইন ফিচারসমূহ (Key Features)
 
@@ -42,7 +37,6 @@ my-first-websitee/
 ├── index.html        # প্রধান HTML ফাইল
 ├── README.md         # প্রজেক্টের বিবরণ
 └── images/           # খাবারের ছবি এবং ওয়েবসাইট প্রিভিউ
-    ├── preview.png   # ওয়েবসাইটের স্ক্রিনশট
     ├── burger.jpg
     ├── pizza.jpg
     ├── pasta.jpg
