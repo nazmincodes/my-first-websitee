@@ -9,7 +9,7 @@
 
 ## 📸 প্রজেক্ট প্রিভিউ (Preview)
 
-![Nazmin's Restaurant Preview](images/preview.png)
+![Nazmin's Restaurant Preview](https://raw.githubusercontent.com/msnazminakter690-prog/my-first-websitee/main/images/preview.png)
 
 ---
 
